@@ -4,7 +4,7 @@
 ░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░▀▀▀░▀▀▀
                                                   
 
-<img alt="LogSentinel logo" align="right" src="./favicon.png"  width="112" >
+<img alt="LogSentinel logo" align="right" src="./favicon.svg"  width="112" >
 
 **AI-powered log anomaly detection with vector search and plain-language security analysis.**
 
